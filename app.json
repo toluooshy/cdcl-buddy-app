@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "CDCL Buddy",
+    "slug": "cdclbuddy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#323741"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cdclbuddy.cdclbuddy"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/splash-icon.png",
+        "backgroundColor": "#323741"
+      },
+      "package": "com.cdclbuddy.cdclbuddy"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
