@@ -21,7 +21,7 @@ For the core tool code, please visit the [cdcl-buddy](https://github.com/youruse
 
 The **CDCL Buddy App** is built using React Native and Expo. Its primary purpose is to serve as a lightweight mobile interface that wraps around the existing website at [cdclbuddy.com](https://cdclbuddy.com). Users can leverage the app for a seamless experience while accessing the CDCL Buddy tool on their mobile devices.
 
-If you want to dive into the actual logic and functionality of the CDCL Buddy tool, please refer to the [cdcl-buddy repository](https://github.com/yourusername/cdcl-buddy).
+If you want to dive into the actual logic and functionality of the CDCL Buddy tool, please refer to the [cdcl-buddy repository](https://github.com/toluooshy/cdcl-buddy).
 
 ---
 
