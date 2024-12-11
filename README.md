@@ -2,7 +2,7 @@
 
 Welcome to the **CDCL Buddy App** repository! This project is a React Native application designed as a wrapper for the `cdcl-buddy` tool, which is deployed at [cdclbuddy.com](https://cdclbuddy.com). The purpose of this app is to provide mobile-friendly access to the features and tools available on the website.
 
-For the core tool code, please visit the [cdcl-buddy](https://github.com/yourusername/cdcl-buddy) repository.
+For the core tool code, please visit the [cdcl-buddy](https://github.com/toluooshy/cdcl-buddy) repository.
 
 ## Table of Contents
 
@@ -72,7 +72,7 @@ Follow the steps below to set up and run the CDCL Buddy App locally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/cdcl-buddy-app.git
+   git clone https://github.com/toluooshy/cdcl-buddy-app.git
    cd cdcl-buddy-app
    ```
 
@@ -157,7 +157,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Notes
 
-- The app itself does not contain the core logic for the CDCL Buddy tool. That functionality is available at the [cdcl-buddy repository](https://github.com/yourusername/cdcl-buddy).
+- The app itself does not contain the core logic for the CDCL Buddy tool. That functionality is available at the [cdcl-buddy repository](https://github.com/toluooshy/cdcl-buddy).
 - The app is a wrapper for [cdclbuddy.com](https://cdclbuddy.com), which hosts the main application.
 
 ---
